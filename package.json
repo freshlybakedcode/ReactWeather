@@ -9,6 +9,7 @@
   "author": "James Brenton",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.13.1",
     "express": "^4.13.4",
     "react": "^15.1.0",
     "react-dom": "^15.1.0",
